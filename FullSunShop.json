@@ -1,0 +1,19 @@
+{
+  "FullSunShop":
+[
+    {"ItemName":"Orange Cat Sticker","ItemPrice":"$2.00","ItemSize":"2.5 x 2 in.","ItemImage":"https://github.com/jxnnifern/JSONProjectsIT315/blob/master/Orange%20cat.png","ItemCat":"Main"},
+    {"ItemName":"Sleeping Pig Sticker","ItemPrice":"$1.75","ItemSize":"2.5 x 1.5 in.","ItemImage":"https://github.com/jxnnifern/JSONProjectsIT315/blob/master/Sleeping%20pig.png","ItemCat":"Main"},
+    {"ItemName":"Original Milk Sticker","ItemPrice":"$2.50","ItemSize":"2.6 x 3 in.","ItemImage":"https://github.com/jxnnifern/JSONProjectsIT315/blob/master/Original%20milk.png","ItemCat":"Main"},
+    {"ItemName":"Strawberry Milk Sticker","ItemPrice":"$2.50","ItemSize":"2.6 x 3 in.","ItemImage":"https://github.com/jxnnifern/JSONProjectsIT315/blob/master/Strawberry%20milk.png","ItemCat":"Main"},
+    {"ItemName":"Halloween Cat Sticker","ItemPrice":"$2.00","ItemSize":"2.25 x 2 in.","ItemImage":"https://github.com/jxnnifern/JSONProjectsIT315/blob/master/Halloween%20cat.png","ItemCat":"Halloween"},
+    {"ItemName":"Singing Ghost Sticker","ItemPrice":"$2.00","ItemSize":"1.5 x 2.75 in.","ItemImage":"https://github.com/jxnnifern/JSONProjectsIT315/blob/master/Singing%20ghost.png","ItemCat":"Halloween"},
+    {"ItemName":"Blue 2021 Sticker","ItemPrice":"$3.00","ItemSize":"3.75 x 1.5 in.","ItemImage":"https://github.com/jxnnifern/JSONProjectsIT315/blob/master/Blue%202021.png","ItemCat":"New Year's"},
+    {"ItemName":"Pink 2021 Sticker","ItemPrice":"$3.00","ItemSize":"3.75 x 1.5 in.","ItemImage":"https://github.com/jxnnifern/JSONProjectsIT315/blob/master/Pink%202021.png","ItemCat":"New Year's"},
+    {"ItemName":"Sitting Cow Sticker","ItemPrice":"$2.00","ItemSize":"2 x 2 in.","ItemImage":"https://github.com/jxnnifern/JSONProjectsIT315/blob/master/Sitting%20cow.png","ItemCat":"New Year's"},
+    {"ItemName":"Standing Cow Sticker","ItemPrice":"$2.00","ItemSize":"2 x 2 in.","ItemImage":"https://github.com/jxnnifern/JSONProjectsIT315/blob/master/Standing%20cow.png","ItemCat":"New Year's"},
+    {"ItemName":"Excited Cow Sticker","ItemPrice":"$2.00","ItemSize":"2 x 2 in.", "ItemImage":"https://github.com/jxnnifern/JSONProjectsIT315/blob/master/Excited%20cow.png","ItemCat":"New Year's"},
+    {"ItemName":"Boy Bear Sticker","ItemPrice":"$2.00","ItemSize":"1.75 x 2.5 in.","ItemImage":"https://github.com/jxnnifern/JSONProjectsIT315/blob/master/Boy%20bear.png","ItemCat":"Valentine's Day"},
+    {"ItemName":"Girl Bear Sticker","ItemPrice":"$2.00","ItemSize":"1.75 x 2.5 in.","ItemImage":"https://github.com/jxnnifern/JSONProjectsIT315/blob/master/Girl%20bear.png","ItemCat":"Valentine's Day"}
+  ],
+  "Status":"OK"
+}
