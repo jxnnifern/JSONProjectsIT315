@@ -1,9 +1,9 @@
 {
   "FullSunShop":
 [
-    {"ItemName":"Orange Cat Sticker","ItemPrice":"$2.00","ItemSize":"2.5 x 2 in.","ItemImage":"https://github.com/jxnnifern/JSONProjectsIT315/blob/master/orangecat.jpg","ItemCat":"Main"},
-    {"ItemName":"Sleeping Pig Sticker","ItemPrice":"$1.75","ItemSize":"2.5 x 1.5 in.","ItemImage":"https://github.com/jxnnifern/JSONProjectsIT315/blob/master/Sleeping%20pig.png","ItemCat":"Main"},
-    {"ItemName":"Original Milk Sticker","ItemPrice":"$2.50","ItemSize":"2.6 x 3 in.","ItemImage":"https://github.com/jxnnifern/JSONProjectsIT315/blob/master/Original%20milk.png","ItemCat":"Main"},
+    {"ItemName":"Orange Cat Sticker","ItemPrice":"$2.00","ItemSize":"2.5 x 2 in.","ItemImage":"https://raw.githubusercontent.com/jxnnifern/JSONProjectsIT315/master/Orange%20cat.png","ItemCat":"Main"},
+    {"ItemName":"Sleeping Pig Sticker","ItemPrice":"$1.75","ItemSize":"2.5 x 1.5 in.","ItemImage":"https://raw.githubusercontent.com/jxnnifern/JSONProjectsIT315/master/Sleeping%20pig.png","ItemCat":"Main"},
+    {"ItemName":"Original Milk Sticker","ItemPrice":"$2.50","ItemSize":"2.6 x 3 in.","ItemImage":"https://raw.githubusercontent.com/jxnnifern/JSONProjectsIT315/master/Original%20milk.png","ItemCat":"Main"},
     {"ItemName":"Strawberry Milk Sticker","ItemPrice":"$2.50","ItemSize":"2.6 x 3 in.","ItemImage":"https://github.com/jxnnifern/JSONProjectsIT315/blob/master/Strawberry%20milk.png","ItemCat":"Main"},
     {"ItemName":"Halloween Cat Sticker","ItemPrice":"$2.00","ItemSize":"2.25 x 2 in.","ItemImage":"https://github.com/jxnnifern/JSONProjectsIT315/blob/master/Halloween%20cat.png","ItemCat":"Halloween"},
     {"ItemName":"Singing Ghost Sticker","ItemPrice":"$2.00","ItemSize":"1.5 x 2.75 in.","ItemImage":"https://github.com/jxnnifern/JSONProjectsIT315/blob/master/Singing%20ghost.png","ItemCat":"Halloween"},
